@@ -23,4 +23,6 @@ Lightbnb is a project for the web dev flex program at Lighthouse Labs
 - Use the psql CLI to interact with and explore a database.
 - Research database queries through documentation and other references.
 
-* - LIGHTBNB LIKE AIRBNB, ONLY BETTER!.......MAYBE?
+##
+
+\_ \_ LIGHTBNB LIKE AIRBNB, ONLY BETTER!.......MAYBE?
