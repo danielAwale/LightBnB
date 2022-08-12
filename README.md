@@ -22,7 +22,3 @@ Lightbnb is a project for the web dev flex program at Lighthouse Labs
 - Use asynchronous (promise-based) postgres JS libraries to query data from Node applications.
 - Use the psql CLI to interact with and explore a database.
 - Research database queries through documentation and other references.
-
-##
-
-\_ \_ LIGHTBNB LIKE AIRBNB, ONLY BETTER!.......MAYBE?
